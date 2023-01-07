@@ -1,4 +1,6 @@
-    // Data Management
+// Remember to saveDefaultConfig() in init function    
+
+// Data Management
     private FileConfiguration dataConfig = null;
     private File configFile = null;
     public void reloadConfig() {
