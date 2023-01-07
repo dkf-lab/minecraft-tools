@@ -1,4 +1,12 @@
 // Remember to saveDefaultConfig() in init function    
+import org.bukkit.configuration.file.FileConfiguration;
+import org.bukkit.configuration.file.YamlConfiguration;
+
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.logging.Level;
 
 // Data Management
     private String filename = "file.yml";
