@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![Issues](https://img.shields.io/github/issues/dkf-lab/MongoCoins) 
+![Issues](https://img.shields.io/github/issues/dkf-lab/minecraft-tools) 
 
 ## About
 
